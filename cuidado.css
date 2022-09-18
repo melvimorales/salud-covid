@@ -1,0 +1,34 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+header{
+	background:#a52a2a;
+    height:100px;
+	width:100%;
+	font-size:30;
+}
+nav{
+	background:#f5f5dc;
+	height:50px;
+	width:100%;
+	font-size:30;
+}
+
+section{
+	background:pink;
+	height:1100px;
+	float:left;
+	width:60%;
+	min-height:500px;
+	padding:10px;
+	font-size:30;
+	font-family:Arial Rounded MT Bold;
+}
+aside{
+	background:#6495ed;
+	height:1000px;
+	float:right;
+	width:38%;
+	font-size:30;
+}
